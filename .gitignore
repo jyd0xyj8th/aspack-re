@@ -1,0 +1,23 @@
+# Ghidra project state
+*.gpr
+*.rep/
+*.lock
+*.lock~
+
+# unpacked samples and dumps
+samples/
+out/
+*.unpacked.exe
+*.dll
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# editors
+.vscode/
+.idea/
+*.swp
